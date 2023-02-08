@@ -1309,3 +1309,16 @@ margin-bottom: 3px;
   .enlace1{
     color: #0078ff;
   }
+  .redes1:hover{
+    stroke:#0f31ac;
+    cursor: pointer;
+  }
+  h3 span{
+    background-color:#0078ff;
+    font-size:small;
+    padding: 3px;
+    padding-bottom: 4px;
+    border-radius: 5px;
+    color: #cde1f8;
+    margin-top: 5px;
+  }
