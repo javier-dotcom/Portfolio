@@ -901,6 +901,9 @@ a:hover {
 .card-blog .card-title {
   font-size: 1.3rem;
   margin-top: .6rem;
+  text-align:center;
+  margin-bottom: .6rem;
+
 }
 
 .card-blog .card-description {
@@ -1321,4 +1324,6 @@ margin-bottom: 3px;
     border-radius: 5px;
     color: #cde1f8;
     margin-top: 5px;
+    text-align:center;
   }
+ 
