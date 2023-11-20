@@ -916,7 +916,7 @@ a:hover {
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
+  /*float: right;*/
 }
 
 /*======================================
@@ -1328,5 +1328,11 @@ margin-bottom: 3px;
  
 
 .centro{
-  text-align: center;
+ display: flex;
+ justify-content: space-evenly;
 }
+.centro1{
+  display: flex;
+  justify-content: space-between;
+ }
+ 
