@@ -1335,4 +1335,7 @@ margin-bottom: 3px;
   display: flex;
   justify-content: space-between;
  }
- 
+  h5 span{
+
+    font-size:medium;
+  }
